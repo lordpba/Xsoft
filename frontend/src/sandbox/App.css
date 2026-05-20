@@ -1,0 +1,37 @@
+.sandbox-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+  color: #94a3b8;
+  font-family: 'Outfit', 'Inter', sans-serif;
+  text-align: center;
+}
+
+.sandbox-placeholder-card {
+  background: rgba(30, 41, 59, 0.4);
+  border: 1px dashed rgba(255, 255, 255, 0.1);
+  padding: 40px 24px;
+  border-radius: 12px;
+  max-width: 400px;
+}
+
+.sandbox-placeholder-card h2 {
+  color: #f8fafc;
+  margin-bottom: 12px;
+  font-size: 1.5rem;
+}
+
+.sandbox-placeholder-card p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+.sandbox-placeholder-card .hint {
+  font-size: 0.8rem;
+  color: #64748b;
+  margin-bottom: 0;
+}

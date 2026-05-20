@@ -1,15 +1,18 @@
 # Xsoft: L'Azienda Software Autonoma di Agenti (Brainstorming)
 
-Questo documento raccoglie le idee, l'architettura e la struttura organizzativa per il nostro esperimento: creare una software house composta interamente da agenti AI autonomi, guidati o supervisionati da un singolo essere umano (l'Owner/Board).
+Questo documento raccoglie le idee, l'architettura e la struttura organizzativa per il nostro esperimento: creare una software house composta interamente da agenti AI autonomi, guidati e supervisionati da un singolo essere umano (l'Owner/Board).
 
 ---
 
-## 1. La Visione (The Goal)
-L'obiettivo è creare un framework o una piattaforma in cui più agenti AI con ruoli specializzati (CEO, Product Manager, Tech Lead, Developer, QA, DevOps) collaborano per prendere una richiesta di alto livello dell'utente, progettarla, scriverla, testarla e metterla in produzione in modo autonomo.
+## 1. La Visione & La Missione (The Goal)
 
-### Il Target: "1-Person Million-Dollar Company"
-*   **Ruolo Umano**: L'investitore, il decisore strategico finale, e il validatore dell'esperienza utente (Human-in-the-Loop).
-*   **Ruolo degli Agenti**: Esecuzione completa del ciclo di vita del software (SDLC - Software Development Life Cycle).
+### La Missione Fondativa
+*Creare la prima AI Software House altamente efficiente, scalabile e profittevole, con l'obiettivo ultimo di accelerare l'evoluzione del software per aiutare l'umanità a evolversi, innovare e vivere meglio.*
+
+### Il Target Strategico: "1-Person Hyperscale Enterprise"
+*   **Ruolo Umano**: Investor, Board, Strategic Director e validatore finale dell'esperienza utente (Human-in-the-Loop).
+*   **Ruolo degli Agenti**: Gestione end-to-end dello sviluppo, manutenzione e supporto del software.
+*   **Prospettiva di Scalabilità (xAI / Grok / Colossus)**: L'architettura deve essere progettata per essere "infrastructure-agnostic" ma ottimizzata per carichi di lavoro massivi. L'obiettivo a lungo termine è poter far girare l'intera agenzia sfruttando le API di modelli di frontiera (come Grok) appoggiandosi a super-cluster di calcolo (come Colossus), riducendo a zero il costo marginale di creazione del software e servendo sia progetti interni che clienti terzi su scala globale.
 
 ---
 
